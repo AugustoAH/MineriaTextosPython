@@ -1,0 +1,2 @@
+# MineriaTextosPython
+Ejercicios String Python
